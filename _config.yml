@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Michele Gleit
+bio: 'A young woman passionate about using data to solve problems'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://itsmichele.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,18 +25,18 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: mgleit
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: mgleit
+#youtube: myyoutube
+#spotify: myspotify
+github: itsmichele
+#medium: medium
+#vimeo: myvimeo
+email: itsmichele@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

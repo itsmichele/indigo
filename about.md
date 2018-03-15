@@ -4,4 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>under construction</p>
+<h2>Under Contruction</h2>
+
+<p>Please excuse the dust</p>
